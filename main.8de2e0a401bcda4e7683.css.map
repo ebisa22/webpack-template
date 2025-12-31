@@ -1,1 +1,0 @@
-{"version":3,"file":"main.8de2e0a401bcda4e7683.css","mappings":"AAAA,KACI,kBACJ,CACA,GACK,UACL","sources":["webpack://webpack_env/./src/styles/style.css"],"sourcesContent":["body{\n    background: rgb(193, 238, 238);\n}\nh2{\n     color: #333;\n}\n "],"names":[],"ignoreList":[],"sourceRoot":""}
